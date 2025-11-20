@@ -15,6 +15,8 @@ void display();
 
 int main()
 {
+     printf("Name : KATKURI NIKHIL\n");
+     printf("ROLL NUMBER : 24E51A6774\n");
      int ch;
      printf("\nqueue using linked list\n");
      while (1)

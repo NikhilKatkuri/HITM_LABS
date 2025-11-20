@@ -39,6 +39,8 @@ void DFS(int start, int n);
 
 int main()
 {
+      printf("Name : KATKURI NIKHIL\n");
+      printf("ROLL NUMBER : 24E51A6774\n");
       size = inputInt("Enter size : ");
 
       int index = inputInt("Start from 0 or 1 : ");

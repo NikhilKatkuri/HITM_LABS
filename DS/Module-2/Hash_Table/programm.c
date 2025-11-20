@@ -24,6 +24,8 @@ void search();
 
 int main()
 {
+     printf("Name : KATKURI NIKHIL\n");
+     printf("ROLL NUMBER : 24E51A6774\n");
      printf("-- hash table --\n");
      size = inputInt("Enter size of has table : ");
 

@@ -7,6 +7,8 @@
 
 int main()
 {
+      printf("Name : KATKURI NIKHIL\n");
+      printf("ROLL NUMBER : 24E51A6774\n");
       char string[Max_size], pattern[Max_size];
       printf("Enter String : ");
       fgets(string, sizeof(string), stdin);

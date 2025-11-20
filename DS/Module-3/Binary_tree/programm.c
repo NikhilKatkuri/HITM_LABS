@@ -54,6 +54,8 @@ void preorder(struct node *curr);
 
 int main()
 {
+      printf("Name : KATKURI NIKHIL\n");
+      printf("ROLL NUMBER : 24E51A6774\n");
       printf("-- binary tree --\n");
       int ch;
       while (1)
