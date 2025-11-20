@@ -10,12 +10,4 @@ if element in number_list:
 else :
       print(f"{element} is not present in List")
 
-# output 
-
-# Enter Numbers seprated by space : 12 14 15 16
-# Enter Element : 13
-# 13 is not present in List
-
-# Enter Numbers seprated by space : 1 2 3 4
-# Enter Element : 3
-# 3 present in List
+ 
