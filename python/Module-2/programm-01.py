@@ -11,17 +11,3 @@ elif char.islower():
       print(f"{char} is a lowercase character.")      
 else:
     print(f"{char} is a special character.")
-
-# output
-
-# Enter a character: A
-# A is an uppercase character.
-
-# Enter a character: a
-# a is a lowercase character.
-
-# Enter a character: 5
-# 5 is a digit.
-
-# Enter a character: @
-# @ is a special character.

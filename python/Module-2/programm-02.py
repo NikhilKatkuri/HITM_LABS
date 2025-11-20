@@ -8,14 +8,3 @@ for num in range(start, end + 1):
         print(num) 
     if num == end:
         break
-
-# output
-
-# 2000
-# 2002
-# 2004
-# 2006
-# ...
-# 2096
-# 2098
-# 2100

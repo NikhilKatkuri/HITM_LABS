@@ -20,5 +20,3 @@ for tup in test_list:
 
 print(tups_divisible)
                 
-
-# output : [(6, 24, 12), (60, 12, 6)]
