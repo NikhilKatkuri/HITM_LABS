@@ -1,3 +1,5 @@
+# Write a Python program to compute the 
+# number of characters, words and lines in a file
 file_name = input("Enter file name: ")
 
 try:

@@ -1,3 +1,5 @@
+# Write a Python program to multiply two n*n matrices using n threads.
+
 import threading
  
 A = [
