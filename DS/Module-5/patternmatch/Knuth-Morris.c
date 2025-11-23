@@ -31,7 +31,7 @@ int LPSTable(int M)
       int i = 1, len = 0;
       while (i < M)
       {
-            if (pattern[i] == pattern[i + len])
+            if (pattern[i] == pattern[len])
             {
                   len++;
                   LPS[i] = len;

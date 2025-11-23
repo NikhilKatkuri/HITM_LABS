@@ -44,9 +44,9 @@ int main()
       size = inputInt("Enter size : ");
 
       int index = inputInt("Start from 0 or 1 : ");
-      for (int i = index; i <= size; i++)
+      for (int i = index; i < size; i++)
       {
-            for (int j = index; j <= size; j++)
+            for (int j = index; j < size; j++)
             {
                   printf("Enter number a[%d][%d] =  ", i, j);
                   graph[i][j] = inputInt("");
