@@ -19,8 +19,8 @@ This project is aimed at helping students easily access lab codes, learn concept
 
 | Subject              | Status         |
 | -------------------- | -------------- |
-| Data Structures (C ) | 🚧 In Progress |
-| Python Programming   | 🚧 In Progress |
+| Data Structures (C ) | available  |
+| Python Programming   | available |
 
 > New labs will be added gradually  
 > Codes will follow syllabus structure
